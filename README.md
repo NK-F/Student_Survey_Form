@@ -6,4 +6,4 @@ page does not save the inputted data and follows a link to the Google search eng
 homepage. <br><br>
 
 **Tools Used**<br>
-SCode IDE (Version 1.67.2)
+VSCode IDE (Version 1.67.2)
